@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Derek Lee Nen That</h1>
 <h3 align="center">A student trying his best to reach his goals</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76116eb2a8589410f3e114b941ca652418453dc6426a&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="350" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76116eb2a8589410f3e114b941ca652418453dc6426a&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on **Finishing Uni**
 
