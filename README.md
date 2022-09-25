@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **dereklee200032@gmail.com**
 
-- ⚡ Fun fact **I am a die hard keyboard enthusiast**
+- ⚡ Fun fact **I am a die-hard keyboard enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
