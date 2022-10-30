@@ -24,5 +24,5 @@
 <!-- <p><img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=dereklee0312&show_icons=true&locale=en&layout=compact&theme=dark" alt="dereklee0312" /></p> -->
 
 <a href="https://github.com/dereklee0312/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dereklee0312&theme=material-palenight" alt="Derek's github stats" align="center"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dereklee0312&theme=material-palenight" alt="Derek's github stats" align="center" width="400"/>
 </a>
