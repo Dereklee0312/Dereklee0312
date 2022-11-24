@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Finishing Uni**
 
-- 🌱 I’m currently learning **Javascript, React Native**
+- 🌱 I’m currently learning **Unity, Front-End tools**
 
 - 🤝 I’m looking for help with **Neovim config**
 
