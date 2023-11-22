@@ -14,6 +14,7 @@
 ### 📫 Contact me:
 
 [![Gmail Badge](https://img.shields.io/badge/-dereklee200032@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dereklee200032@gmail.com)](mailto:dereklee200032@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-derek0312.work@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:derek0312.work@gmail.com)](mailto:derek0312.work@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="./bash.png" alt="bash" width="40" height="40"/> </a>
