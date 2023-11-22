@@ -30,7 +30,15 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <p align="left"> <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="./wordpress.png" alt="wordpress" width="40" height="40"/> </a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+  </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://nestjs.com/img/logo_text.svg" alt="Nest.js" width="40" height="40"/>
+  </a>
 <p><img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=dereklee0312&theme=material-palenight" alt="dereklee0312" /></p>
 
 <p>&nbsp;<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=dereklee0312&show_icons=true&locale=en&theme=material-palenight" alt="dereklee0312" /></p>
